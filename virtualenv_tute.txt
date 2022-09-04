@@ -1,0 +1,13 @@
+1) pip install virtualenv
+
+2) virtualenv ENVIROMENT-NAME
+
+3) ENVIROMENT-NAME\Scripts\activate
+
+4) deactivate
+
+5) pip freeze>requirment.txt
+
+6) pip install -r requirment.txt
+
+7) virtualenv --system-site-packages ENVIROMENT-NAME
